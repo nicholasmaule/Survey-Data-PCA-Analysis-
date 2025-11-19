@@ -28,7 +28,7 @@ This project demonstrates several fundamental data preprocessing techniques and 
 ## How to Run
 
 1. Download or clone the repository.
-2. Make sure the CSV file (`survey_data.csv`) is in the same folder as the notebook.
+2. Make sure the CSV file (`SurveyData.csv`) is in the same folder as the notebook.
    - The notebook automatically reads this file.
 3. Open the notebook:
    `data_normalization.ipynb`
